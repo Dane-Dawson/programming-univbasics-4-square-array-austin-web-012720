@@ -5,4 +5,5 @@ while numbers[counter] do
   new_array.push (numbers[index] ** 2)
   counter +=1
 end
+new_array
 end
